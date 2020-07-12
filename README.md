@@ -1,4 +1,4 @@
-# Pandemic
+# Pandemic (Hackathon Project)
 A short python minigame to play during quarantine!
 
 Objective:
