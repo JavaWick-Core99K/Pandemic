@@ -1,4 +1,4 @@
-# Pandemic (A hackathon project for VandyHacks Summer 2020)
+# Pandemic (VandyHacks Summer 2020 Hackathon Project)
 # Contributors: [JavaWick-Core99K, lovelife3212]
 
 A short python minigame to play during quarantine!
